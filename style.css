@@ -6,6 +6,7 @@ h3    {text-align: center;}
 section{
     display: flex;
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 #p1 { 
     font-size: 30px;

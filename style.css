@@ -5,7 +5,10 @@ h3    {text-align: center;}
 section{
     display: flex;
 }
-
+.but{
+      text-decoration: none;
+      text-align: center;
+    }
 #p1 { 
     font-size: 30px;
     text-align: justify;

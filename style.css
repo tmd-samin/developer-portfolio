@@ -1,14 +1,12 @@
-body  {font-family: 'Rubik Moonrocks', cursive;}
+body  {font-family: 'Rubik Moonrocks', cursive;
+margin: 0%;}
 h1    {font-size: 50px;
        text-align: center;}
 h3    {text-align: center;}
 section{
     display: flex;
+    background-image: url(images/top-banner.png);
 }
-.but{
-      text-decoration: none;
-      text-align: center;
-    }
 #p1 { 
     font-size: 30px;
     text-align: justify;
@@ -16,3 +14,13 @@ section{
     padding-left: 10%;
     padding-right: 10%;
     }
+.but{   
+        margin-left: 45%;
+        color: rgb(255, 255, 255); 
+        text-decoration: none;
+        text-align: center;
+        background-image: linear-gradient(orange,blue);
+        padding: 15px;
+        border-radius: 10px;
+    }
+    

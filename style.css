@@ -3,7 +3,7 @@ margin: 0%;}
 h1    {font-size: 50px;
        text-align: center;}
 h3    {text-align: center;}
-section{
+.f1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
@@ -24,4 +24,33 @@ section{
         padding: 15px;
         border-radius: 10px;
     }
-    
+#re{
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+   }    
+.but1{
+    margin-left: 45%;
+    color: rgb(255, 255, 255); 
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(orange,blue);
+    padding: 15px;
+    border-radius: 10px;
+    }
+    #er{ display: flex;
+        }
+.ex{ 
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-left: 10px solid rgb(0, 250, 21);
+    padding: 30px;
+    box-shadow: 10px 10px 40px rgb(89, 238, 3);
+    border-radius: 15px;
+   }
+#rer{
+    text-align: center;
+}
